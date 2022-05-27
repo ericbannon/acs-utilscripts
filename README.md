@@ -1,1 +1,1 @@
-Util scripts for ACS 
+Example Util scripts using the ACS API
